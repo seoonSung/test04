@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 a-branch 공통기능 구현
 >>>>>>> a-branch
+=======
+b-branch 공통기능 구현
+>>>>>>> b-branch
